@@ -16,11 +16,12 @@ The objective of this project is to enhance and apply Python skills by actively 
 ### API Coverage
 - Foursquare's API generated a more extensive range of unique values across the dataset in comparison to yelp. I found some of their features, such as the 10-point rating scale, to be superior for data comparisons compared to Yelp's 5-star approach. It is also worth noting that some of yelps features for their API were only available through a paid 'premium access tier'. Over all Foursquare was my prefered source of data. You can read more here.
 
-My intial thoughts entering into this project is that there would be a higher number of bicycles at a station surrounded in venues with higher ratings and a shorter distance from the bike station. While the R-squared numbers and low p-values make this model look promising to show a connection between the average distance, and average rating and the number of bikes. The failure of assumptions such as normality of residuals and homoscedasticity suggests that the model might not be capturing the true underlying relationships accurately. Ultimately, a more thorough analysis involving further data collection would be beneficial to ensure reliable findings.
- 
  ### Model Results
-<img src="images/bikes,rate,distance results.png" alt="Number of Bikes, Average Rating, Average Distance Results" width="500" height="500">
+ - My intial thoughts entering into this project is that there would be a higher number of bicycles at a station surrounded by venues with higher ratings and a shorter distance from the bike station. While the R-squared numbers and low p-values make this model look promising to show a connection between the average distance, average rating and the number of bikes. The failure of assumptions such as normality of residuals and homoscedasticity suggests that the model might not be capturing the true underlying relationships accurately. Ultimately, a more thorough analysis involving further data collection would be beneficial to ensure reliable findings.
 
+<p align="center">
+<img src="images/bikes,rate,distance results.png" alt="Number of Bikes, Average Rating, Average Distance Results" width="500" height="500">
+</p>
 
 ## Challenges 
 
