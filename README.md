@@ -19,7 +19,8 @@ The objective of this project is to enhance and apply Python skills by actively 
 My intial thoughts entering into this project is that there would be a higher number of bicycles at a station surrounded in venues with higher ratings and a shorter distance from the bike station. While the R-squared numbers and low p-values make this model look promising to show a connection between the average distance, and average rating and the number of bikes. The failure of assumptions such as normality of residuals and homoscedasticity suggests that the model might not be capturing the true underlying relationships accurately. Ultimately, a more thorough analysis involving further data collection would be beneficial to ensure reliable findings.
  
  ### Model Results
-![Number of Bikes, Average Rating, Average Distance Results](/images/bikes,rate,distance results.png)
+<img src="images/bikes,rate,distance results.png" alt="Number of Bikes, Average Rating, Average Distance Results" width="500" height="500">
+
 
 ## Challenges 
 
